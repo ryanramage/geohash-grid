@@ -1,0 +1,18 @@
+{
+  "name": "geohash-grid",
+  "version": "1.0.0",
+  "description": "Given a bounding box, produce a geohash grid",
+  "main": "./lib/index.js",
+  "bin" : "./bin/cli.js",
+  "dependencies": {
+    "ngeohash": "^0.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ryanramage/geohash-grid.git"
+  },
+  "bugs": {
+    "url": "http://github.com/ryanramage/geohash-grid/issues"
+  },
+  "homepage": "http://github.com/ryanramage/geohash-grid"
+}
